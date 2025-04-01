@@ -1,0 +1,13 @@
+.custom-background {
+    display: flex;
+    /* O grid */
+    align-items: center;
+    /* Centrar contenido verticalmente */
+    justify-content: center;
+    /* Centrar horizontalmente */
+    width: 100%;
+    min-height: 130px;
+    /* Ajusta según tu diseño */
+    background-image: url('img/MER.png');
+    background-size: cover;
+}
